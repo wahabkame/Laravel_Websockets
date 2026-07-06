@@ -3,10 +3,10 @@
 ## by using LEMP (Linux, Nginx, MySQL, PHP)
 
 ### I build i project with Laravel +Websockets and i got to explain how to do that :
-1-Configuring Laravel for Websockets.<br />
-2-Setting up Comments API & AJAX.<br />
+1- Configuring Laravel for Websockets.<br />
+2- Setting up Comments API & AJAX.<br />
 3- Handling Socket Server Events.<br />
-4-Authenticating Private Channels.<br />
+4- Authenticating Private Channels.<br />
 
 ------------------
 
