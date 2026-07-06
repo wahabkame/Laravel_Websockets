@@ -3,7 +3,7 @@
 ## by using LEMP (Linux, Nginx, MySQL, PHP)
 
 ### I build i project with Laravel +Websockets and i got to explain how to do that :
-1-Configuring Laravel for Websockets.
+1-Configuring Laravel for Websockets.<br />
 2-Setting up Comments API & AJAX.
 3- Handling Socket Server Events.
 4-Authenticating Private Channels.
