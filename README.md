@@ -25,7 +25,7 @@ sudo apt-get install php-mbstring
 sudo nano /etc/php/7.0/fpm/php.ini
 ```
 
-configure nginx
+Configure nginx:<br />
 1-index<br />
 2-server-name<br />
 3-location<br />
