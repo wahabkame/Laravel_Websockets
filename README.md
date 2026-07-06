@@ -4,9 +4,9 @@
 
 ### I build i project with Laravel +Websockets and i got to explain how to do that :
 1-Configuring Laravel for Websockets.<br />
-2-Setting up Comments API & AJAX.
-3- Handling Socket Server Events.
-4-Authenticating Private Channels.
+2-Setting up Comments API & AJAX.<br />
+3- Handling Socket Server Events.<br />
+4-Authenticating Private Channels.<br />
 
 ------------------
 
@@ -26,9 +26,9 @@ sudo nano /etc/php/7.0/fpm/php.ini
 ```
 
 configure nginx
-1-index
-2-server-name
-3-location
+1-index<br />
+2-server-name<br />
+3-location<br />
 
 ```
 sudo nano /etc/nginx/sites-available/default
